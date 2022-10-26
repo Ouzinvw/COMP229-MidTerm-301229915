@@ -6,7 +6,6 @@
 import debug from 'debug';
 debug('comp-229');
 import http from 'http';
-import { HttpError} from 'http-errors';
 
 import app from './server/config/app.js';
 
