@@ -1,3 +1,8 @@
+// COMP229-F2022-MidTerm
+// Ouzin von Wahl
+// 301229915
+// October 26, 2022
+
 import debug from 'debug';
 debug('comp-229');
 import http from 'http';
